@@ -1,0 +1,15 @@
+table {
+    width: 100%;
+    text-align: center;
+    border: 5px solid #1a1a1a;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+td {
+    padding: 10px 20px;
+}
+
+td:hover {
+    background-color: #646cff;
+}
